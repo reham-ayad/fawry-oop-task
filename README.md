@@ -21,7 +21,7 @@ A simple Java console app that models an e-commerce system using Object-Oriented
   - Customer balance check
 - Print receipt and shipping notice
 
- Technologies
+ ## Technologies
 - Java 24
 - Console-based application (no UI)
 
